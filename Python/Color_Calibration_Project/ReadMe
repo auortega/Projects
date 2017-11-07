@@ -1,1 +1,1 @@
-This folder includes all files for a color calibration project I did for Computer Vision course.
+This folder contains the files and report for a color calibration project. The idea behind the project is that we should be able to calibrate the colors in an image to the true colors using image processing of a color passport under the same light conditions as the image being calibrated. The color passport technique is used by professional photographers to obtain the closest results to real color in their images.
